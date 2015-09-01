@@ -19,7 +19,7 @@ See the LICENSE file included with this library for more information.
 Distributed as-is; no warranty is given.
 ******************************************************************************/
 
-#include "SparkFunMMA8452Q/SparkFunMMA8452Q.h"
+#include "SparkFunMMA8452Q.h"
 #include "application.h"
 
 // CONSTRUCTUR
