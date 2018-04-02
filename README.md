@@ -3,6 +3,7 @@
 A firmware library for the SparkFun's [MMA8452Q 3-Axis Accelerometer](https://www.sparkfun.com/products/12756).
 
 [![MMA8452Q 3-Axis Accelerometer](https://cdn.sparkfun.com//assets/parts/9/5/1/5/12756-00.jpg)](https://www.sparkfun.com/products/12756)
+
 About
 -------------------
 
