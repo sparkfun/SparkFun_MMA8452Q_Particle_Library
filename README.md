@@ -59,6 +59,14 @@ Recommended Components
 * [MMA8452Q 3-Axis Accelerometer](https://www.sparkfun.com/products/12756)
 * [Particle Photon](https://www.sparkfun.com/products/13345) or [SparkFun Photon RedBoard](https://www.sparkfun.com/products/13321)
 
+Products Versions
+---------------------------------
+
+* [SEN-14587](https://www.sparkfun.com/products/14587) - SparkFun breakout board with Qwiic system.
+* [SPX-14248](https://www.sparkfun.com/products/14248) - SparkX breakout board with Qwiic system.
+* [BOB-13926](https://www.sparkfun.com/products/13926) - Breakout board with headers
+* [SEN-12756](https://www.sparkfun.com/products/12756)- Breakout board
+
 License Information
 -------------------
 
